@@ -54,10 +54,8 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
-```
 ![ex 04 output](https://github.com/user-attachments/assets/338c7541-dfc9-4ff3-adda-dd549a82a560)
 
-```
 
 ## Result :
 ```
